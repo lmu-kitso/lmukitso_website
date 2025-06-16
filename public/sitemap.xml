@@ -96,7 +96,25 @@
     <loc>http://localhost:1313/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/amelie-daum/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/jan-p-hummel/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/kira-vordermark/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/patryk-dabkowski/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/r-rosch-abdullah/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/robert-s-piecyk/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
