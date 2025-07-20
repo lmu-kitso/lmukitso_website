@@ -47,13 +47,14 @@ social:
     link: 'mailto:patryk.dabkowski@med.uni-muenchen.de'
 #  - icon: pubmed
 #    icon_pack: ai
-#    link: https://www.ncbi.nlm.nih.gov/myncbi/kristian.unger.1/bibliography/public/
+#    link: https://www.ncbi.nlm.nih.gov/myncbi/kristian.unger.1/bibliography/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/orgs/lmu-kitso
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=YW04DmYAAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/orgs/lmu-kitso
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +72,4 @@ highlight_name: false
 user_groups:
   - Visitors
 ---
-<p>This is space is to be filled with HTML</p>
+<p>Patryk is a Deep Learning engineer specializing in computer vision and signal processing for multimodal clinical decision support systems in oncology.</p>
