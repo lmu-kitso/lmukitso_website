@@ -102,10 +102,10 @@
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jan-p-hummel/</loc>
+    <loc>http://localhost:1313/author/ilka-klose/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/kira-vordermark/</loc>
+    <loc>http://localhost:1313/author/jan-p-hummel/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/patryk-dabkowski/</loc>

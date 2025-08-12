@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kira Vordermark
+title: Ilka Klose
 
 # Full Name (for SEO)
-first_name: Kira
-last_name: Vordermark
+first_name: Ilka
+last_name: Klose
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,7 +44,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kria.vordermark@med.uni-muenchen.de'
+    link: 'mailto:ilka.klose@med.uni-muenchen.de'
 #  - icon: pubmed
 #    icon_pack: ai
 #    link: https://www.ncbi.nlm.nih.gov/myncbi/kristian.unger.1/bibliography/public/
@@ -71,4 +71,4 @@ highlight_name: false
 user_groups:
   - Students
 ---
-<p>This is space is to be filled with HTML</p>
+<p>Ilka is a PhD student at KITSO working on the PRIDE-T translational study, conducting multi-omics analysis on glioblastoma (GBM) blood and tissue samples.</p>
