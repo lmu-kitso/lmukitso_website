@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ilka.klose@med.uni-muenchen.de'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ilka-klose-a1a418155/
 #  - icon: pubmed
 #    icon_pack: ai
 #    link: https://www.ncbi.nlm.nih.gov/myncbi/kristian.unger.1/bibliography/public/

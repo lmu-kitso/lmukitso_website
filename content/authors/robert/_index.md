@@ -45,6 +45,25 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:robert.piecyk@med.uni-muenchen.de'
+  - icon: globe
+    icon_pack: fas
+    link: https://robert-piecyk.github.io/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/robert-piecyk
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/robert-piecyk/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Robert-Piecyk?ev=hdr_xprf
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=v8gjQjUAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0009-0002-1912-4487
+    
 #  - icon: pubmed
 #    icon_pack: ai
 #    link: https://www.ncbi.nlm.nih.gov/myncbi/kristian.unger.1/bibliography/public/
@@ -71,4 +90,4 @@ highlight_name: false
 user_groups:
   - Postdoctoral Researchers
 ---
-<p>This is space is to be filled with HTML</p>
+<p>Robert is a postdoctoral researcher in computational biology and data science, focusing on HNSCC tumor microenvironments and building computational pipelines for multi-omics and radiomics.</p>
