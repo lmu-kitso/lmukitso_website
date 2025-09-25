@@ -1,5 +1,3 @@
-lftp -u di98wip,PsDbusw2024! ftp://ftp.lrz.de -e "mirror -R --only-newer /Users/kristianunger/Library/CloudStorage/OneDrive-LMUKlinikumAöR/LMU/theme-research-group/public /nfs/web_user/www/p/di98wip/webserver/htdocs; quit"
-
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
